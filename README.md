@@ -1,12 +1,16 @@
-# Enumerable in Ruby
+### Enumerable in Ruby 🌟
 
-A ruby program where we created our own enumerable all?, any? and filter methods.
+A Ruby program that implements custom versions of the `all?`, `any?`, and `filter` methods, mimicking the functionality of the Enumerable module. This program demonstrates how to create and use these essential Enumerable methods from scratch.
 
-## Built With
+### Features:
+- **Custom `all?` Method:** Check if all elements in a collection meet a specified condition.
+- **Custom `any?` Method:** Determine if any elements in a collection meet a specified condition.
+- **Custom `filter` Method:** Select elements from a collection that meet a specified condition.
 
-- **Languages**
+### Built With:
+- Ruby
 
-  - *Ruby*
+---
 
 ### Prerequisites
 
